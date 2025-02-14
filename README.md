@@ -111,4 +111,4 @@ This project is open-source and free to use.
 
 new entry made to google sheet using sheety api:
 
-![image](https://github.com/user-attachments/assets/66da031e-8da0-4b9d-a311-6ca2df78c498)
+![image](https://github.com/user-attachments/assets/f477976c-da7a-45d8-8d25-558641770da6)
